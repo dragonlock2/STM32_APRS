@@ -1,0 +1,32 @@
+*.DS_Store
+
+# project
+.cproject
+.mxproject
+.project
+.settings
+
+*.launch
+
+# build
+Debug
+Release
+
+# libs
+Drivers
+Middlewares
+USB_DEVICE
+ 
+# extra
+STM32L433CCUX_FLASH.ld
+
+Core/Startup
+Core/Inc/stm32l4xx_hal_conf.h
+Core/Inc/stm32l4xx_it.h
+Core/Src/stm32l4xx_hal_msp.c
+Core/Src/syscalls.c
+Core/Src/sysmem.c
+Core/Src/system_stm32l4xx.c
+
+# python
+__pycache__
