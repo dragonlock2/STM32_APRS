@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name TC4056A)(type Legacy)(uri ${KIPRJMOD}/TC4056A.lib)(options "")(descr ""))
+  (lib (name SSD1306)(type Legacy)(uri ${KIPRJMOD}/SSD1306.lib)(options "")(descr ""))
+  (lib (name stm32_aprs-rescue)(type Legacy)(uri ${KIPRJMOD}/stm32_aprs-rescue.lib)(options "")(descr ""))
+)

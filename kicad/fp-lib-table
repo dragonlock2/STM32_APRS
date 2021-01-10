@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name SSD1306)(type KiCad)(uri ${KIPRJMOD}/SSD1306.pretty)(options "")(descr ""))
+  (lib (name LCSC)(type KiCad)(uri ${KIPRJMOD}/LCSC.pretty)(options "")(descr ""))
+  (lib (name C&K)(type KiCad)(uri ${KIPRJMOD}/C&K.pretty)(options "")(descr ""))
+)
