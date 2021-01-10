@@ -12,6 +12,10 @@ Potentially reusable modules (.c/.h):
 
 ## How to Use
 
+### iPython
+
+ipython/aprs.ipynb is a Python implementation of the APRS encoding and decoding algorithms written for easy conversion to C.
+
 ### STM32CubeIDE
 
 APRSTest.ioc is a STM32CubeMX configuration file and was used to generate the project starter code in STM32CubeIDE. Everything in Core/ should be copied over to the generated Core/ folder, overwriting as necessary.
