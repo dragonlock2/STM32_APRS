@@ -30,3 +30,4 @@ Core/Src/system_stm32l4xx.c
 
 # python
 __pycache__
+ipython/.ipynb_checkpoints
