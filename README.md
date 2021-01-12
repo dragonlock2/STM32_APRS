@@ -2,6 +2,8 @@
 
 APRS modulation and demodulation with a UI. Made for STM32L433.
 
+https://matthewtran.dev/2021/01/stm32-aprs/
+
 Potentially reusable modules (.c/.h) in Core/:
 * BitFIFO/IntFIFO - FIFO queue implemented with a ring buffer
 * SSD1306 - I2C driver for SSD1306 OLED w/ compact font
